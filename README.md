@@ -2,17 +2,16 @@
 
 A React Native mobile application for managing daily goals and tasks. Built with React Native and Expo, this app helps users track their daily objectives in a clean and intuitive interface.
 
-## Demo
+## App Preview
 
-### App Preview
+<div style="display: flex; flex-direction: row; gap: 10px; align-items: center;">
+    <img src="./assets/goals.jpg" alt="App Screenshot" width="250"/>
+    <video width="250" controls>
+        <source src="./assets/Simulator Screen Recording - iPhone 14 Pro Max - 2025-10-26 at 02.31.15.mov" type="video/quicktime">
+    </video>
+</div>
 
-![DayGoals App Demo](./assets/goals.jpg)
-
-### Features Demonstration
-
-Download the full demo video:
-
-- [Download Demo Video (v1.0.0)](https://github.com/abdelfatahmoustafa/DayGoals_ReactNative/releases/download/v1.0.0/demo.mov)
+[➡️ Watch Demo Video](https://github.com/abdelfatahmoustafa/DayGoals_ReactNative/blob/main/assets/Simulator%20Screen%20Recording%20-%20iPhone%2014%20Pro%20Max%20-%202025-10-26%20at%2002.31.15.mov?raw=true)
 
 The demo shows the main features of the DayGoals app:
 
