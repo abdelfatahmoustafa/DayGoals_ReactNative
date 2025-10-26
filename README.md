@@ -4,10 +4,8 @@ A React Native mobile application for managing daily goals and tasks. Built with
 
 ## App Preview
 
-<div style="display: flex; flex-direction: row; gap: 10px; align-items: center;">
-    <img src="./assets/1.png" alt="Main Screen" width="200"/>
-    <img src="./assets/2.png" alt="Add Goal Screen" width="200"/>
-    <img src="./assets/Adobe Express - assets_Simulator Screen Recording - iPhone 14 Pro Max - 2025-10-26 at 02.31.15.gif" alt="App Demo" width="200"/>
+<div style="display: flex; justify-content: center;">
+    <img src="./assets/Adobe Express - assets_Simulator Screen Recording - iPhone 14 Pro Max - 2025-10-26 at 02.31.15.gif" alt="App Demo" width="300"/>
 </div>
 
 The demo shows the main features of the DayGoals app:
