@@ -134,5 +134,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Contact
 
 Abdelfatah Moustafa - abdalfatahmoustafa@gmailcom
-Project Link:  https://github.com/abdelfatahmoustafa/DayGoals_ReactNative)](https://github.com/abdelfatahmoustafa/DayGoals_ReactNative 
+Project Link:  https://github.com/abdelfatahmoustafa/DayGoals_ReactNative 
  
